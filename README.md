@@ -1,16 +1,93 @@
 ## Hi there 👋
 
-<!--
-**jakunzler/jakunzler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📝About Me
 
-Here are some ideas to get you started:
+<h3 align="center">
+  I was born in Santa Catarina and moved to Goiânia before my first birthday. I love my family and enjoy learning and teaching interesting things about the universe.
+  <br/><br/>
+  Check my <a href="https://jakunzler.github.io/personal-portfolio/">Portfolio</a> for more info.
+</h3>
+<br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
+
+<table align="center"><tr><td valign="top" width="30%">
+
+### <div align="center"> Frontend </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,mui,sqlite,vite,flutter&theme=light&perline=3" />
+</p>
+
+</td><td valign="top" width="40%">
+
+### <div align="center"> Embedded Systems </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,,cpp,,linux,,arduino,,raspberrypi&theme=dark&perline=3" />
+</p>
+
+</td><td valign="top" width="30%">
+
+### <div align="center"> Backend </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,flask,ts,py,php,express,prisma,mysql,postgres&theme=dark&perline=3" />
+</p>
+
+</td></tr><tr><td valign="top" width="30%">
+
+### <div align="center"> AI </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=,sklearn,,pytorch,ai,tensorflow,py,,js&theme=dark&perline=3" />
+</p>
+
+</td><td valign="top" width="40%">
+
+### <div align="center"> Scientific Writing </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=latex,,,,matlab,,,,md&theme=dark&perline=3" />
+</p>
+
+</td><td valign="top" width="30%">
+
+### <div align="center"> Tools </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cmake,github,git,codepen,discord,docker,figma,vscode,notion&theme=dark&perline=3" />
+</p>
+
+</td></tr></table>
+<br/><br/>
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jakunzler&theme=radical" />
+</p>
+<br/><br/>
+
+# 📫 Connect With Me
+
+<div align="center">
+<a href="https://www.linkedin.com/in/jonas-augusto-kunzler-20a63547/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://jakunzler.github.io/personal-portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/mywebsite-000080.svg?&style=for-the-badge&logo=gnometerminal&logoColor=white" alt=mysite style="margin-bottom: 5px;" />
+</a>
+</div>  
+<br/><br/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jakunzler&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jakunzler&theme=radical)
+
+- 🔭 I’m currently working on Telecommunications and Software Development
+- 🌱 I’m currently learning Mobile Development
+- 👯 I’m looking to collaborate on Projects related to Technology and AI
+- 🤔 I’m looking for help with finding an international job
+- 💬 Ask me about math and science
+- 📫 How to reach me: there's a link to my website here
+- ⚡ Fun fact: sometimes, what seems to be, isn't
