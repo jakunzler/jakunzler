@@ -90,4 +90,4 @@
 - 🤔 I’m looking for help with finding an international job
 - 💬 Ask me about math and science
 - 📫 How to reach me: there's a link to my website here
-- ⚡ Fun fact: sometimes, what seems to be, isn't
+- ⚡ Fun fact: The term 'Artificial Intelligence' was coined in 1956, but today’s AI can process information millions of times faster than the computers available back then!
