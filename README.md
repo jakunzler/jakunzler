@@ -1,22 +1,47 @@
-## Hi there 👋
+# Professor Jonas Kunzler (jakunzler) - Researcher in Telecommunications, IoT, AI & Software Development
 
-# 📝About Me
+## 📝About Me
 
 <h3 align="center">
-  I was born in Santa Catarina and moved to Goiânia before my first birthday. I love my family and enjoy learning and teaching interesting things about the universe.
+  My name is Jonas Augusto Kunzler. I was born in Santa Catarina and moved to Goiânia before my first birthday. I love my family and enjoy learning and teaching interesting things about the universe.
+  <br/><br/>
+  I am currently working as a Telecommunications Researcher and Software Engineer passionate about Mobile Networks, IoT, AI, and Embedded Systems. 
+  <br/><br/>
+  My research includes **6G, mmWave, Open RAN, FPGA programming, and AI applications**.
   <br/><br/>
   Check my <a href="https://jakunzler.github.io/personal-portfolio/">Portfolio</a> for more info.
 </h3>
 <br/><br/>
 
-# <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
+## <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="Image regarding the mastered technologies" width ="35"/> Technologies That I Know
+
+### 🖥️ Frontend
+- HTML, CSS, JavaScript, TypeScript
+- React, Material UI, Vite, Flutter
+- SQLite
+
+### 🔌 Embedded Systems
+- C, C++, Linux, Arduino, Raspberry Pi
+
+### ⚙️ Backend
+- Node.js, Flask, TypeScript, Python, PHP
+- Express, Prisma, MySQL, PostgreSQL
+
+### 🤖 Artificial Intelligence
+- Scikit-Learn, PyTorch, AI, TensorFlow
+
+### 📚 Scientific Writing
+- LaTeX, MATLAB, Markdown
+
+### 🔧 Tools
+- CMake, GitHub, Git, CodePen, Docker, Figma, VS Code, Notion
 
 <table align="center"><tr><td valign="top" width="30%">
 
 ### <div align="center"> Frontend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,mui,sqlite,vite,flutter&theme=light&perline=3" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,mui,sqlite,vite,flutter&theme=light&perline=3" alt="Frontend technologies" />
 </p>
 
 </td><td valign="top" width="40%">
@@ -24,7 +49,7 @@
 ### <div align="center"> Embedded Systems </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,,cpp,,linux,,arduino,,raspberrypi&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=c,,cpp,,linux,,arduino,,raspberrypi&theme=dark&perline=3" alt="Embedded Systems" />
 </p>
 
 </td><td valign="top" width="30%">
@@ -32,7 +57,7 @@
 ### <div align="center"> Backend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,flask,ts,py,php,express,prisma,mysql,postgres&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=nodejs,flask,ts,py,php,express,prisma,mysql,postgres&theme=dark&perline=3" alt="Backend technologies" />
 </p>
 
 </td></tr><tr><td valign="top" width="30%">
@@ -40,7 +65,7 @@
 ### <div align="center"> AI </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=,sklearn,,pytorch,ai,tensorflow,py,,js&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=,sklearn,,pytorch,ai,tensorflow,py,,js&theme=dark&perline=3" alt="Artificial Intelligence technologies" />
 </p>
 
 </td><td valign="top" width="40%">
@@ -48,7 +73,7 @@
 ### <div align="center"> Scientific Writing </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=latex,,,,matlab,,,,md&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=latex,,,,matlab,,,,md&theme=dark&perline=3" alt="Tools for scientific writing" />
 </p>
 
 </td><td valign="top" width="30%">
@@ -56,20 +81,27 @@
 ### <div align="center"> Tools </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cmake,github,git,codepen,discord,docker,figma,vscode,notion&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=cmake,github,git,codepen,discord,docker,figma,vscode,notion&theme=dark&perline=3" alt="Other tools for getting the work done" />
 </p>
 
 </td></tr></table>
 <br/><br/>
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jakunzler&theme=radical" />
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jakunzler&theme=radical" alt="Statistics from GitHub" />
 </p>
 <br/><br/>
 
-# 📫 Connect With Me
+## 📫 Connect With Me
+
+Feel free to reach out through the following platforms:
+
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/jonas-augusto-kunzler-20a63547/)
+- **Portfolio:** [Visit my personal website](https://jakunzler.github.io/personal-portfolio/)
+
+<br/><br/>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/jonas-augusto-kunzler-20a63547/" target="_blank">
