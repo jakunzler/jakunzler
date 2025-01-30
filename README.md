@@ -7,7 +7,7 @@
   <br/><br/>
   I am currently working as a Telecommunications Researcher and Software Engineer passionate about Mobile Networks, IoT, AI, and Embedded Systems. 
   <br/><br/>
-  My research includes **6G, mmWave, Open RAN, FPGA programming, and AI applications**.
+  My research includes <strong>6G, mmWave, Open RAN, FPGA programming, and AI applications</strong>.
   <br/><br/>
   Check my <a href="https://jakunzler.github.io/personal-portfolio/">Portfolio</a> for more info.
 </h3>
@@ -35,6 +35,8 @@
 
 ### 🔧 Tools
 - CMake, GitHub, Git, CodePen, Docker, Figma, VS Code, Notion
+
+## Technologies Summary
 
 <table align="center"><tr><td valign="top" width="30%">
 
